@@ -1,6 +1,6 @@
 {
   "name": "@dhruval/material-styles",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "material styles like colors, typography, theme etc. for material components ",
   "main": "theme.js",
   "scripts": {
