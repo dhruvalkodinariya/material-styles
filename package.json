@@ -1,0 +1,36 @@
+{
+  "name": "@dhruval/material-styles",
+  "version": "1.0.0",
+  "description": "material styles like colors, typography, theme etc. for material components ",
+  "main": "theme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material",
+    "styles",
+    "colors",
+    "typography",
+    "theme",
+    "lit-element",
+    "polymer"
+  ],
+  "author": "Dhruval Kodinariya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvalkodinariya/material-styles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhruvalkodinariya/material-styles/issues"
+  },
+  "homepage": "https://github.com/dhruvalkodinariya/material-styles#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@polymer/font-roboto": "^3.0.2",
+    "lit-element": "^2.3.1"
+  },
+  "devDependencies": {}
+}
